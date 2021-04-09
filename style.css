@@ -96,7 +96,7 @@
 
 @media only screen and (max-width:768px) {
     .cc-card-component {
-        padding: 20px 15px;
+        padding: 20px 5px;
     }    
     .cc-col {
         flex: 0 0 100%;
